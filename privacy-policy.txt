@@ -1,0 +1,47 @@
+Privacy Policy for gograbbit
+
+This privacy policy applies to the use of the [App Name] mobile application (the "App") developed by gograbbit.in  (the "Developer").
+
+    Introduction
+
+The App allows users to order groceries for delivery. In order to provide this service, the App collects and uses certain personal information from its users. The Developer is committed to protecting the privacy and security of its users' personal information.
+
+    Information Collected
+
+The App collects the following information from its users:
+
+    Phone number: Users are required to provide a phone number to sign up for the App. The phone number is used for the purpose of sending an OTP (One Time Password) for authentication.
+
+    Name: Users are required to provide their name to create a profile on the App.
+
+    Address: Users are required to provide their address to enable the delivery of groceries.
+
+    Location: The App collects the user's location data for the purpose of providing location-based services. However, this feature can be turned off by the user at any time.
+
+    Use of Information
+
+The Developer uses the information collected from its users for the following purposes:
+
+    To provide the service of delivering groceries.
+
+    To send notifications regarding the status of the order and other important information.
+
+    To improve the quality of the App and to enhance the user experience.
+
+    To send promotional and marketing materials regarding the App and its services.
+
+The Developer will not share the user's personal information with third parties, except as required by law or to provide the service of delivering groceries.
+
+    Security
+
+The Developer takes reasonable measures to protect the personal information of its users. The App uses proper encryption and security protocols to protect sensitive data transmission and storage. The App's servers are hosted in secure data centers with access control measures in place. The Developer restricts access to user data to only those employees and contractors who need to access it to provide the service.
+
+    Updates to Privacy Policy
+
+The Developer reserves the right to update this privacy policy at any time. Users will be notified of any updates to the privacy policy via the App.
+
+    Contact Us
+
+If you have any questions or concerns about this privacy policy, please contact us at gograbbit.in
+
+By using the App, you acknowledge that you have read and understood this privacy policy and agree to the collection and use of your personal information as described herein.
